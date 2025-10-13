@@ -1,0 +1,16 @@
+  215  vi oops2
+  216  git add oops2
+  217  git commit -m 'add oops2'
+  218  git push
+  219  rm oops2
+  220  ls
+  221  git rm oops2
+  222  git commit -m 'removing oops2'
+  223  git push
+  224  vi never
+  225  git add never
+  226  git reset never
+  227  man rm
+  228  man cp
+  229  history 
+  230  more history
