@@ -1,16 +1,16 @@
-  215  vi oops2
-  216  git add oops2
-  217  git commit -m 'add oops2'
-  218  git push
-  219  rm oops2
-  220  ls
-  221  git rm oops2
-  222  git commit -m 'removing oops2'
-  223  git push
-  224  vi never
-  225  git add never
-  226  git reset never
-  227  man rm
-  228  man cp
-  229  history 
-  230  more history
+  356  vi posorneg_py
+  357  ./posorneg_py 55 90 -30 
+  358  vi posorneg_py
+  359  ./posorneg_py 55 90 -30 
+  360  vi posorneg_py
+  361  ./posorneg_py 55 90 -30 
+  362  git add posorneg_py
+  363  git commit -m 'added multiple if elsif else statements and sys.argv'
+  364  git push
+  365  cd
+  366  history
+  367  ls
+  368  cd PFB_problemsets
+  369  ls
+  370  head never
+  371  head git_exercises.txt
